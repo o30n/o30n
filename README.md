@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -20,13 +20,25 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/postgres.svg" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/redis.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -38,9 +50,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="alt.svg" width="48" height="48" alt="Alt Linux" />
+        <img src="arch-linux.svg" width="48" height="48" alt="Arch Linux" />
       </a>
-      <br>Alt Linux
+      <br>Arch Linux
     </td>
   </tr>
 </table>
