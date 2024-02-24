@@ -52,7 +52,7 @@
       <a href="#macropower-tech" >
         <img src="arch-linux.svg" width="48" height="48" alt="Arch Linux" />
       </a>
-      <br>Arch Linux
+      <br>Arch
     </td>
   </tr>
 </table>
