@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h4 align="left" id="macropower-tech">Favorite Tech</h4>
 
 > Tools, languages, and other things that I like to work with.
 
