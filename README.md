@@ -8,55 +8,55 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/php.svg" width="48" height="48" alt="PHP" />
+        <img src="./img/new-php-logo.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/postgres.svg" width="48" height="48" alt="Postgres" />
+        <img src="./img/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Postgres
+      <br>PostgreSQL
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/redis.svg" width="48" height="48" alt="Redis" />
+        <img src="./img/redis-icon.svg" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/nginx.svg" width="48" height="48" alt="Nginx" />
+        <img src="./img/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       </a>
       <br>Nginx
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-icon.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="./img/ubuntu-icon.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="arch-linux.svg" width="48" height="48" alt="Arch Linux" />
+        <img src="archlinux-icon.svg" width="48" height="48" alt="Arch Linux" />
       </a>
       <br>Arch
     </td>
