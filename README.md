@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 <h4 align="left" id="macropower-tech">Favorite Tech</h4>
 
