@@ -38,6 +38,12 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
+        <img src="./img/nginx.svg" width="48" height="48" alt="Nginx" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
